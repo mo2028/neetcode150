@@ -29,5 +29,8 @@ Hashmap for old→new node mapping (clone graph / deep copy pattern)
 - **Don't need to handle `next` and `random` separately from each other** — both have the same "node might not exist yet" problem, so both go in the second pass.
 
 ## Revisit
-- **Date to revisit**: 2026-03-12
-- **Revisited?**: No
+- **Struggle level**: hints
+- **Intervals**: 3d → 7d → 14d
+- **Current interval**: 1
+- **Date to revisit**: 2026-03-08
+- **Revisit history**:

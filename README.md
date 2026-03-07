@@ -2,6 +2,22 @@
 
 Progress tracker for all 150 NeetCode problems, organized by topic.
 
+## Goal
+- **Pace**: 2 problems/weekday, 3 problems/weekend
+- **Target**: ~10 weeks (~2.5 months)
+- **Started**: 2026-03-06
+
+## Streak
+- **Current streak**: 2 days
+- **Longest streak**: 2 days
+- **Total sessions**: 2
+
+## Activity Log
+| Date | Problems |
+|------|----------|
+| 2026-03-06 | Copy List With Random Pointer |
+| 2026-03-07 | - |
+
 ## How to Study
 
 1. **Attempt first** — Spend 15-20 minutes trying the problem on your own before looking at hints.

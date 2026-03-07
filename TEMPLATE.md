@@ -21,5 +21,8 @@ Easy / Medium / Hard
 <!-- What tripped you up, edge cases you missed, anything to remember -->
 
 ## Revisit
+- **Struggle level**: easy / hints / struggled
+- **Intervals**: (e.g. 7d → 14d → 30d)
+- **Current interval**: 1
 - **Date to revisit**:
-- **Revisited?**: No
+- **Revisit history**:
