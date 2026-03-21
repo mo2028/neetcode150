@@ -31,6 +31,7 @@ Hashmap for old→new node mapping (clone graph / deep copy pattern)
 ## Revisit
 - **Struggle level**: hints
 - **Intervals**: 3d → 7d → 14d
-- **Current interval**: 1
-- **Date to revisit**: 2026-03-08
+- **Current interval**: 2
+- **Date to revisit**: 2026-03-28
 - **Revisit history**:
+  - 2026-03-21: successful

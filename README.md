@@ -8,15 +8,18 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 - **Started**: 2026-03-06
 
 ## Streak
-- **Current streak**: 2 days
+- **Current streak**: 1 day
 - **Longest streak**: 2 days
-- **Total sessions**: 2
+- **Total sessions**: 5
 
 ## Activity Log
 | Date | Problems |
 |------|----------|
 | 2026-03-06 | Copy List With Random Pointer |
-| 2026-03-07 | - |
+| 2026-03-07 | Find the Duplicate Number (discussed) |
+| 2026-03-12 | Find the Duplicate Number (discussed) |
+| 2026-03-15 | Planning session |
+| 2026-03-21 | Copy List With Random Pointer (revisit ✓), Find the Duplicate Number (in progress) |
 
 ## How to Study
 
