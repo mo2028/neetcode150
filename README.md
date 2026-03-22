@@ -8,9 +8,9 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 - **Started**: 2026-03-06
 
 ## Streak
-- **Current streak**: 1 day
+- **Current streak**: 2 days
 - **Longest streak**: 2 days
-- **Total sessions**: 5
+- **Total sessions**: 6
 
 ## Activity Log
 | Date | Problems |
@@ -20,6 +20,7 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 | 2026-03-12 | Find the Duplicate Number (discussed) |
 | 2026-03-15 | Planning session |
 | 2026-03-21 | Copy List With Random Pointer (revisit ✓), Find the Duplicate Number (in progress) |
+| 2026-03-22 | Reverse Linked List |
 
 ## How to Study
 
@@ -76,7 +77,7 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 - [ ] Median of Two Sorted Arrays
 
 ### 06 - Linked List (11)
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
