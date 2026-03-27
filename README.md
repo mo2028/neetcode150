@@ -8,9 +8,9 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 - **Started**: 2026-03-06
 
 ## Streak
-- **Current streak**: 2 days
+- **Current streak**: 1 days
 - **Longest streak**: 2 days
-- **Total sessions**: 6
+- **Total sessions**: 7
 
 ## Activity Log
 | Date | Problems |
