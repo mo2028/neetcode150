@@ -19,11 +19,15 @@ Two approaches covered:
 
 **Iterative:**
 - Track `prev = None` and `curr = head`
-- Each iteration: save `nextNode`, set `curr.next = prev`, advance `prev` and `curr`
+- Each iteration:
+  1. Save `nextNode = curr.next` (so you don't lose it)
+  2. `curr.next = prev` (reverse the pointer)
+  3. `prev = curr` (advance prev)
+  4. `curr = nextNode` (advance curr using the saved reference)
 - Return `prev` (new head)
 
 ## Key Pattern
-Pointer reversal — save next, reverse link, advance both pointers.
+Save next → reverse pointer → advance. In that exact order. `prev` starts as `None` so the original head naturally becomes the tail (last node, pointing to `None`).
 
 ## Complexity
 - **Time**: O(n)
@@ -41,6 +45,8 @@ Pointer reversal — save next, reverse link, advance both pointers.
 ## Revisit
 - **Struggle level**: struggled
 - **Intervals**: 1d → 3d → 7d
-- **Current interval**: 1
-- **Date to revisit**: 2026-03-23
+- **Current interval**: 3
+- **Date to revisit**: 2026-04-02
 - **Revisit history**:
+  - 2026-03-23: ✓ success
+  - 2026-03-26: ✓ success

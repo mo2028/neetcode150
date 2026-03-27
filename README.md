@@ -21,6 +21,8 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 | 2026-03-15 | Planning session |
 | 2026-03-21 | Copy List With Random Pointer (revisit ✓), Find the Duplicate Number (in progress) |
 | 2026-03-22 | Reverse Linked List |
+| 2026-03-24 | Reverse Linked List (revisit ✓), Merge Two Sorted Lists |
+| 2026-03-26 | Reverse Linked List (revisit ✓), Add Two Numbers, Linked List Cycle |
 
 ## How to Study
 
@@ -78,12 +80,12 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 
 ### 06 - Linked List (11)
 - [x] Reverse Linked List
-- [ ] Merge Two Sorted Lists
+- [x] Merge Two Sorted Lists
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
 - [x] Copy List With Random Pointer
-- [ ] Add Two Numbers
-- [ ] Linked List Cycle
+- [x] Add Two Numbers
+- [x] Linked List Cycle
 - [ ] Find the Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
