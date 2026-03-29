@@ -51,6 +51,7 @@ Dummy node + two-pointer merge. Reuse existing nodes by rewiring `.next` pointer
 ## Revisit
 - **Struggle level**: hints
 - **Intervals**: 3d → 7d → 14d
-- **Current interval**: 1
-- **Date to revisit**: 2026-03-27
+- **Current interval**: 2
+- **Date to revisit**: 2026-04-03
 - **Revisit history**:
+  - 2026-03-27: ✓ success

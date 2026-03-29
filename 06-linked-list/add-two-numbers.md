@@ -54,9 +54,15 @@ Dummy node + digit-by-digit addition with carry. The `while l1 or l2 or carry` c
 - **Unsafe list advancement**: `l1 = l1.next` crashes if `l1` is already `None`. Use `l1 = l1.next if l1 else None`.
 - **No need for special carry handling after loop**: Because `or carry` is in the while condition, when carry=1 and both lists are None, the loop runs once more with `l1Val=0, l2Val=0`, naturally creating the carry node.
 
+### Revisit 1 mistakes (2026-03-27)
+- **Swapped carry and digit**: Used `ListNode(addedSum // 10)` for the node and `carry = addedSum % 10` — completely backwards. `% 10` gives the ones digit (goes in the node), `// 10` gives the carry.
+- **Forgot to advance curr**: Set `curr.next = addedDigitNode` but never did `curr = curr.next`, so every iteration overwrote the same `curr.next`.
+- **Typo in l2Val check**: Wrote `l2Val = l2.val if l1 else 0` — checked `l1` instead of `l2`. Always double-check which variable you're guarding.
+
 ## Revisit
 - **Struggle level**: hints
 - **Intervals**: 3d → 7d → 14d
-- **Current interval**: 1
-- **Date to revisit**: 2026-03-27
+- **Current interval**: 2
+- **Date to revisit**: 2026-04-03
 - **Revisit history**:
+  - 2026-03-27: ✓ success (minor mistakes: swapped carry/digit, forgot curr advance, typo in l2 check)
