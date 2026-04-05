@@ -8,9 +8,9 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 - **Started**: 2026-03-06
 
 ## Streak
-- **Current streak**: 3 days
+- **Current streak**: 1 days
 - **Longest streak**: 3 days
-- **Total sessions**: 9
+- **Total sessions**: 10
 
 ## Activity Log
 | Date | Problems |
@@ -25,6 +25,7 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 | 2026-03-26 | Reverse Linked List (revisit ✓), Add Two Numbers, Linked List Cycle |
 | 2026-03-28 | Merge Two Sorted Lists (revisit ✓), Add Two Numbers (revisit ✓), Reorder List |
 | 2026-03-29 | Remove Nth Node From End of List |
+| 2026-04-04 | Find the Duplicate Number |
 
 ## How to Study
 
@@ -88,7 +89,7 @@ Progress tracker for all 150 NeetCode problems, organized by topic.
 - [x] Copy List With Random Pointer
 - [x] Add Two Numbers
 - [x] Linked List Cycle
-- [ ] Find the Duplicate Number
+- [x] Find the Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
 - [ ] Reverse Nodes in K-Group
